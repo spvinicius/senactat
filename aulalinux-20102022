@@ -1,0 +1,10 @@
+ Terceira etapa: Instalar software (Linux)
+	                 Microsoft - .EXE ou MSI
+					 ------------------------
+					 Linux Chrome - 64 bits .deb
+					 Opera Linux
+					 
+					 Gdebi --> Dependência
+					 Cenntral de aplicativos
+					 Terminal -atp
+					 sudo apt install git vim psensor
