@@ -7,4 +7,7 @@ Pesquisar: Markdown - extensão: *.md
 
 Pesquisar: Comando: git - Editor: VSCode
                           (Visual Studio Code)
-             Clonar             
+             Clonar   
+             
+sudo apt update
+sudo apt install git vim
