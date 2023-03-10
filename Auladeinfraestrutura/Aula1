@@ -1,0 +1,64 @@
+  1 aula de Infraestrutura de Rede 
+
+obijetivo da atividade de hoje 28/20/2023
+
+primeira etapa .: iniciar o cisco Packert Tracer 
+                  ( se autenticar com a sua conta )
+				  		  
+segunda etapa ..: material que esta na rende 
+		T:\publica\!!!!RobsonVaamonde\infraestruturaDeRede
+		
+terceira etapa .: se autenticar com a sua conta no Github 
+                  ( recomendo para manter o seu material 
+                  atualizado e organizado ) 
+				  
+quarta etapa ...: iniciar o Visual Studio code 
+                  (comando basico do Cisco vou mostrar nele )	
+				  
+configuração do cisco :
+desabilitar: 
+- opition 
+- peferences 
+- Desabilitar " Show Device Mode Labels " e "Show Device name Labels "
+
+Habilitar : 
+- opitions
+- preferences
+- show/hide
+- habilitar "Show Wireless Boundary "
+
+visão "Logical" 
+ desenhar o jeito que quer o seu serviddor 
+ 
+ visão "physical" 
+ fazer um diagrama que mostrara como realmente funcionaria seu servidoer utilizada da "topologia"
+ 
+ rede cliente servidoer: 
+ - uso de seftware gerencia e controla as informações que funciona em varias maquinas simuntaniamente 
+ 
+ rede servidor de trabalho
+- geralmente classificada como host e destino final, porem não recomendado para uma sede com mais de 10 computadores 
+
+todos os dispositivos finais são computadores , televisão, impresora , entre outros, ou seja, aqueles que vc consegue configurar de qualquer jeito 
+
+rede autonoma : uma rede que vem originalmente com qualquer computador ( locahost) que esteja isolado de qualquer outros 
+nunca conectar na porta "console"
+triangulo verde : esta correto e ligado no local certo 
+triangulo vemelho : esta errado ou desativado 
+bolimha laranja : analizando de onde vem a conexão  , liderando ou não a passagem  
+A diferenca entre a fastEthernet ( amarela)  e a GigabitEthrnet ( laranja ) é que e mais rapida do que a fast
+
+Despositivos finais : tudo que seja ligavel e que consiga tocar e configurar 
+Ativos de rede ( dispositivos de meio) : roteadores , switch , entre outros  ( aqueles que ligam na tomada ou que emite um pulso de energia eletrica ) 
+Passivo de rede ( meio fisico : cado de rede e rede sem fio 
+
+Lan: VLAN (consegue mexer), rede de area local, dentro de uma rede no dentro do estabelecimento
+Wan: Tem uma rede propria geralmente da operadora onde não e possivel mexe-la 
+
+TIPO DE INTERNET:
+Intranet: tudo construido dentro da rede local privatizada (Informaçoes pessoais dentro do site)
+Extranet: Acesso seguro a inforações de diferentes organizações, necessitando o acesso aos dados da intranet da empresa (Logo apos fazer o login ou cadastro no site)
+Internet: Rede mundialmente interconectada, afim de trocar informação por meio de padrões comuns (pagina do website)	
+
+Caso funcione no Cisco, funciona na vida real
+Topologia fisica não depende da topologia logica, mas a logica depende da física
